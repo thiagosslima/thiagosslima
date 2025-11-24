@@ -28,4 +28,8 @@ Repositórios com experimentos, estudos e exemplos práticos de boas arquitetura
 Implementações com paginação eficiente para grandes volumes de dados
 Projetos que exploram uso de Async e padrões modernos
 
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
+</div>
