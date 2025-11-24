@@ -7,6 +7,7 @@ Gosto de aprender coisas novas, compartilhar conhecimento e criar ambientes onde
 ## 📫 Como falar comigo
 
 Você pode entrar em contato por aqui mesmo no GitHub ou através das redes sociais que eu deixar listadas no perfil. Adoro trocar ideias sobre código, transmissão, setups de mídia, organização de times e tudo que envolve criatividade e tecnologia.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/thiagosslima1)
 
 ## 🔧 Tecnologias e Ferramentas
