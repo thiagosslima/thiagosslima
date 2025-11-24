@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Thiago Soares, mas pode me chamar de apenas Soares
+# 👋 Olá, sou o Thiago Soares, mais conhecido como Soares
 
 Sou engenheiro de software, apaixonado por tecnologia, fotografia, transmissão ao vivo e criação de soluções que facilitem a vida de pessoas e equipes. Trabalho com desenvolvimento há mais de doze anos e hoje atuo no Banco BTG. Também lidero equipes de mídia em minha igreja, onde coordeno fotografia, transmissão ao vivo e capacitação de voluntários.
 
